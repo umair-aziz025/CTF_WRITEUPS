@@ -223,6 +223,6 @@ Enter flag: Success! Real flag accepted.
 
 ---
 
-**Author:** stxrdust  
+**Author:** MR. Umair  
 **Date:** January 20, 2026  
 **Competition:** KnightCTF 2026

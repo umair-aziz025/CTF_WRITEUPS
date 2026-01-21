@@ -4,7 +4,6 @@
 - **Category:** Forensics
 - **Points:** 100
 - **File:** pcap3.pcapng
-- **Author:** TareqAhamed (0xt4req)
 
 ## Challenge Description
 The attacker's ultimate goal was to access our database. During the post-exploitation phase, they managed to extract database credentials from the compromised system. Find the database username and password that were exposed.

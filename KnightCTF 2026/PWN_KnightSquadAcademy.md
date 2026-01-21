@@ -176,6 +176,6 @@ Your Flag : KCTF{_We3Lc0ME_TO_Knight_Squad_Academy_} ... Visit our website : kni
 
 ---
 
-**Author:** stxrdust  
+**Author:** MR. Umair   
 **Date:** January 20, 2026  
 **Competition:** KnightCTF 2026

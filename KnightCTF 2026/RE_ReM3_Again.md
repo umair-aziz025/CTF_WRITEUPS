@@ -3,7 +3,6 @@
 **Challenge:** ReM3 Again  
 **Category:** Reverse Engineering  
 **Points:** 500  
-**Author:** NomanProdhan  
 **Flag:** `KCTF{aN0Th3r_r3_I_h0PE_y0U_eNj0YED_IT}`
 
 ---
@@ -165,6 +164,6 @@ The binary contains multiple fake flags designed to mislead:
 
 ---
 
-**Author:** stxrdust  
+**Author:** MR. Umair  
 **Date:** January 21, 2026  
 **Competition:** KnightCTF 2026

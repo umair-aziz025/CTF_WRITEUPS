@@ -3,7 +3,6 @@
 CTF: KnightCTF 2026  
 Category: Web / API  
 Points: 100  
-Author: 0xt4req
 
 ## **Description**
 

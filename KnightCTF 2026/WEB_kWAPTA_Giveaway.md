@@ -3,7 +3,6 @@
 **Challenge:** kWAPTA Giveaway  
 **Category:** Web Security  
 **Points:** 0 (Giveaway)  
-**Author:** NomanProdhan  
 **Difficulty:** Easy  
 
 ## Challenge Description
@@ -186,6 +185,6 @@ if ($_POST['email'] == ADMIN_EMAIL) {
 
 ---
 
-**Author:** umair-aziz025  
+**Author:** MR. Umair  
 **Date:** January 21, 2026  
 **CTF:** KnightCTF 2026
