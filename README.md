@@ -1,51 +1,68 @@
-# KnightCTF 2026 - CTF Writeups
+# CTF Writeups Collection
 
-Collection of writeups for challenges solved during **KnightCTF 2026**.
+A comprehensive collection of writeups from various Capture The Flag (CTF) competitions I have participated in. This repository showcases my problem-solving approaches, security research techniques, and vulnerability analysis across different challenge categories.
 
 ## About
 
-These writeups document the approaches, techniques, and solutions used to solve various challenges across different categories.
+This repository contains detailed writeups documenting my solutions to CTF challenges across multiple competitions. Each writeup includes:
+- Challenge analysis and reconnaissance
+- Exploitation techniques and methodologies
+- Step-by-step solution process
+- Tools and scripts used
+- Lessons learned and key takeaways
 
-## Challenges Solved
+## CTF Competitions
 
-### 🕵️ Forensics
-- [Database Credentials Theft](FORENSICS_Database_Credentials_Theft.md)
-- [Exploitation](FORENSICS_Exploitation.md)
-- [Vulnerability Exploitation](FORENSICS_Vulnerability_Exploitation.md)
+### 🏆 [KnightCTF 2026](KnightCTF%202026/)
+**Date:** January 2026 | **Format:** Jeopardy-style
 
-### 💻 Reverse Engineering
-- [ReM3](RE_ReM3.md)
-- [ReM3 Again](RE_ReM3_Again.md) - 500 points
+**Challenges Solved:**
+- 🕵️ **Forensics:** Database Credentials Theft, Exploitation, Vulnerability Exploitation
+- 💻 **Reverse Engineering:** ReM3, ReM3 Again (500 pts)
+- 🌐 **Web Security:** kWAPTA Giveaway (IDOR), KnightCTF Admin Panel, Knight Shop Again
+- 💥 **Binary Exploitation (PWN):** Knight Squad Academy
 
-### 🌐 Web Security
-- [kWAPTA Giveaway](WEB_kWAPTA_Giveaway.md) - IDOR vulnerability
-- [KnightCTF Admin Panel](KnightCTF-Admin-Panel.md)
-- [Knight Shop Again](Knight_Shop_Again.md)
+[View all KnightCTF 2026 writeups →](KnightCTF%202026/)
 
-### 💥 Binary Exploitation (PWN)
-- [Knight Squad Academy](PWN_KnightSquadAcademy.md)
+---
 
-## Tools & Techniques Used
+## Categories Covered
 
-- **Binary Analysis:** GDB, objdump, Ghidra
-- **Web Security:** Burp Suite, PowerShell (Invoke-WebRequest), Python requests
-- **Forensics:** Various forensic analysis tools
-- **Scripting:** Python, PowerShell, Bash
+- 🌐 **Web Exploitation** - SQL Injection, XSS, IDOR, Authentication Bypass
+- 💻 **Reverse Engineering** - Binary analysis, Assembly, Debugging
+- 🕵️ **Forensics** - Memory forensics, Network analysis, File carving
+- 💥 **Binary Exploitation** - Buffer overflow, ROP chains, Format strings
+- 🔐 **Cryptography** - Classical & modern crypto challenges
+- 🎯 **Miscellaneous** - Logic puzzles, OSINT, Steganography
+
+## Tools & Techniques
+
+- **Binary Analysis:** GDB, objdump, Ghidra, radare2, IDA Pro
+- **Web Security:** Burp Suite, OWASP ZAP, curl, PowerShell, Python requests
+- **Forensics:** Volatility, Wireshark, Autopsy, binwalk
+- **Scripting:** Python, Bash, PowerShell
+- **Network Analysis:** Wireshark, tcpdump, nmap
 
 ## Author
 
 **umair-aziz025**
 
-## CTF Information
+📧 Contact: Available on GitHub
+🔗 LinkedIn: [Your profile]
+🐦 Twitter: [@your_handle]
 
-- **CTF Name:** KnightCTF 2026
-- **Date:** January 2026
-- **Format:** Jeopardy-style
+## Stats
+
+- **CTFs Participated:** 1+
+- **Total Challenges Solved:** 9+
+- **Categories:** Forensics, Web, PWN, Reverse Engineering
 
 ## Disclaimer
 
-These writeups are for educational purposes only. They demonstrate security research techniques and vulnerability analysis in controlled CTF environments.
+These writeups are created for **educational purposes only**. They demonstrate security research techniques and vulnerability analysis in controlled CTF environments. The techniques shown here should only be used in authorized security testing scenarios.
 
 ---
 
-⭐ If you found these writeups helpful, consider giving this repo a star!
+⭐ **Star this repo** if you find these writeups helpful!  
+🔔 **Watch** to stay updated with new CTF writeups  
+🍴 **Fork** to maintain your own collection
