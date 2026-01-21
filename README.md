@@ -45,11 +45,10 @@ This repository contains detailed writeups documenting my solutions to CTF chall
 
 ## Author
 
-**umair-aziz025**
+**MR. Umair**
 
-📧 Contact: Available on GitHub
-🔗 LinkedIn: [Your profile]
-🐦 Twitter: [@your_handle]
+🔗 **LinkedIn:** [linkedin.com/in/umairaziz001](https://www.linkedin.com/in/umairaziz001/)  
+💻 **GitHub:** [github.com/umair-aziz025](https://github.com/umair-aziz025)
 
 ## Stats
 
