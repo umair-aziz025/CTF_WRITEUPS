@@ -2,8 +2,7 @@
 
 **CTF:** KnightCTF 2026  
 **Challenge:** Knight Squad Academy Jail 2  
-**Category:** PWN / Jail  
-**Points:** 100  
+**Category:** PWN / Jail   
 
 ---
 
@@ -276,6 +275,6 @@ KCTF{_aNOtHER_JAIL_Y0U_bRoKE_}
 
 ---
 
-**Author:** MR. Umair  
-**Date:** January 21, 2026  
-**LinkedIn:** [linkedin.com/in/umairaziz001](https://www.linkedin.com/in/umairaziz001/)
+**Author:** MR. Umair   
+**Date:** January 20, 2026  
+**Competition:** KnightCTF 2026

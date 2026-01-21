@@ -1,10 +1,7 @@
 # WaF - Web Challenge Writeup
-
-**CTF:** KnightCTF 2026  
+ 
 **Challenge:** WaF  
 **Category:** Web  
-**Points:** 100  
-**Author:** badhacker0x1  
 
 ---
 
@@ -208,6 +205,8 @@ KCTF{7fdbbcd6c3cee0ae65c5ca327c14a25f6e473d1c}
 
 ---
 
-**Author:** MR. Umair  
+---
+
+**Author:** MR. Umair   
 **Date:** January 21, 2026  
-**LinkedIn:** [linkedin.com/in/umairaziz001](https://www.linkedin.com/in/umairaziz001/)
+**Competition:** KnightCTF 2026

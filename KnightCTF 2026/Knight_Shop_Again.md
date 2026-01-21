@@ -2,7 +2,6 @@
 
 CTF: KnightCTF 2026  
 Category: Web / API  
-Points: 100  
 
 ## **Description**
 
@@ -84,3 +83,8 @@ JSON
 
 KCTF{kn1ght\_c0up0n\_m4st3r\_2026}
 
+---
+
+**Author:** MR. Umair   
+**Date:** January 21, 2026  
+**Competition:** KnightCTF 2026

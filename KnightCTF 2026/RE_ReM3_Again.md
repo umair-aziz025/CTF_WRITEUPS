@@ -2,7 +2,6 @@
 
 **Challenge:** ReM3 Again  
 **Category:** Reverse Engineering  
-**Points:** 500  
 **Flag:** `KCTF{aN0Th3r_r3_I_h0PE_y0U_eNj0YED_IT}`
 
 ---

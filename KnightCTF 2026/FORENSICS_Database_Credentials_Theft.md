@@ -2,7 +2,6 @@
 
 ## Challenge Information
 - **Category:** Forensics
-- **Points:** 100
 - **File:** pcap3.pcapng
 
 ## Challenge Description
@@ -73,3 +72,9 @@ KCTF{wpuser_wp@user123}
 ## Tools Used
 - strings
 - grep
+
+---
+
+**Author:** MR. Umair   
+**Date:** January 20, 2026  
+**Competition:** KnightCTF 2026

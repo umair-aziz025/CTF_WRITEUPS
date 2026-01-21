@@ -1,8 +1,7 @@
 # Knight Squad Academy - PWN Challenge Writeup
 
 **Challenge:** Knight Squad Academy  
-**Category:** PWN  
-**Points:** 100  
+**Category:** PWN   
 **Flag:** `KCTF{_We3Lc0ME_TO_Knight_Squad_Academy_}`
 
 ---
