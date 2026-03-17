@@ -13,6 +13,21 @@ This repository contains detailed writeups documenting my solutions to CTF chall
 
 ## CTF Competitions
 
+### 🕌 [Ramadan CTF 2026](Ramadan%20CTF%202026/)
+**Format:** Jeopardy-style
+
+**Challenges Covered:**
+- 🌐 **Web Security:** CloudVault, GiftForge, GameWatch, Notey, QuizApp, Mutation World, SpellHound, Vaultmind
+- 💻 **Reverse Engineering:** Encryption 101, Validator, Ruby
+- 🕵️ **Forensics:** In-visible, SeeTwo, Neurahire
+- 💥 **Binary Exploitation (PWN):** Airbender, Feedback, JITstream
+- 🔐 **Cryptography:** ezRSA
+- 🎯 **Miscellaneous:** Forest, Immobilzed, Zippy
+
+[View all Ramadan CTF 2026 writeups →](Ramadan%20CTF%202026/)
+
+---
+
 ### 🏆 [KnightCTF 2026](KnightCTF%202026/)
 **Date:** January 2026 | **Format:** Jeopardy-style
 
@@ -52,8 +67,8 @@ This repository contains detailed writeups documenting my solutions to CTF chall
 
 ## Stats
 
-- **CTFs Participated:** 1+
-- **Total Challenges Solved:** 9+
+- **CTFs Participated:** 2+
+- **Total Challenges Solved:** 30+
 - **Categories:** Forensics, Web, PWN, Reverse Engineering
 
 ## Disclaimer
