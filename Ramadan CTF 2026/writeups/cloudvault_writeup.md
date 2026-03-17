@@ -144,5 +144,5 @@ done
 
 ## Notes
 
-Although the challenge title hints at ZIP handling (â€œZip Slipâ€), this solve path was direct traversal/LFI through the ZIP download route rather than archive extraction RCE.
+Although the challenge title hints at ZIP handling, this solve path was direct traversal/LFI through the ZIP download route rather than archive extraction RCE.
 

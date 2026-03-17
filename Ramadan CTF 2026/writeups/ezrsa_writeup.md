@@ -98,7 +98,7 @@ VBD{ae746bf43346cc8cbc6d613d8e8da1f3}
 
 ## Key Takeaways
 
-- Always check [factordb.com](http://factordb.com) first for RSA challenges â€” it's the quickest win
+- Always check [factordb.com](http://factordb.com) first for RSA challenges, it's the quickest win
 - The `factordb-pycli` Python package automates the lookup: `pip install factordb-pycli`
 - Despite using 1024-bit primes (2048-bit n), if the primes are known/weak, RSA breaks trivially
 - No quantum computer needed, just a database lookup
