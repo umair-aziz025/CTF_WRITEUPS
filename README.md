@@ -62,9 +62,6 @@ This repository contains detailed writeups documenting my solutions to CTF chall
 
 **MR. Umair**
 
-🔗 **LinkedIn:** [linkedin.com/in/umairaziz001](https://www.linkedin.com/in/umairaziz001/)  
-💻 **GitHub:** [github.com/umair-aziz025](https://github.com/umair-aziz025)
-
 ## Stats
 
 - **CTFs Participated:** 2+
