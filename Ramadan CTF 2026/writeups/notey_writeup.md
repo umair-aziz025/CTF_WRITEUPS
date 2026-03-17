@@ -156,7 +156,7 @@ print(f"\n[FLAG] {flag}")
 Run:
 
 ```bash
-C:/Users/stxrdust/AppData/Local/Programs/Python/Python38/python.exe "c:\Users\stxrdust\Desktop\Internships\Deltaware_Solution\1. ctf\notey-web\exploit_notey.py"
+C:/Users/ctf/python.exe "c:\Users\ctf\exploit_notey.py"
 ```
 
 ---

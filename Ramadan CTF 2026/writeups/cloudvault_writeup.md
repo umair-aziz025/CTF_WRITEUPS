@@ -102,7 +102,7 @@ for p in paths:
 Command used:
 
 ```powershell
-& "c:\Users\stxrdust\Desktop\Internships\Deltaware_Solution\venv\Scripts\python.exe" "c:\Users\stxrdust\Desktop\Internships\Deltaware_Solution\_cloudvault_flag_hunt.py"
+& "c:\Users\ctf\python.exe" "c:\Users\ctf\_cloudvault_flag_hunt.py"
 ```
 
 Observed output:

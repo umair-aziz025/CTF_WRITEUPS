@@ -17,7 +17,7 @@ The file is a 32MB ext4 filesystem. Using 7-Zip on Windows:
 
 ```powershell
 # Identify filesystem type
-$bytes = [System.IO.File]::ReadAllBytes("C:\Users\stxrdust\Downloads\employee_dump.img")
+$bytes = [System.IO.File]::ReadAllBytes("C:\Users\ctf\employee_dump.img")
 # Check offset 1024 for ext4 superblock - found magic bytes 53 EF
 
 # Extract with 7-Zip
