@@ -13,6 +13,17 @@ This repository contains detailed writeups documenting my solutions to CTF chall
 
 ## CTF Competitions
 
+### 🏙️ [UMass CTF 2026](UMass%20CTF%202026/)
+**Format:** Jeopardy-style
+
+**Challenges Covered:**
+- 📚 **Web/Logic:** The Block City Times, Brick Workshop, Ninja-Nerds, ORDER66
+- 🧩 **Misc/Reverse:** Batcave Bitflips, Hens and Roosters, Smart Brick v2
+
+[View all UMass CTF 2026 writeups →](UMass%20CTF%202026/)
+
+---
+
 ### 🕌 [Ramadan CTF 2026](Ramadan%20CTF%202026/)
 **Format:** Jeopardy-style
 
@@ -64,7 +75,7 @@ This repository contains detailed writeups documenting my solutions to CTF chall
 
 ## Stats
 
-- **CTFs Participated:** 2+
+- **CTFs Participated:** 3+
 - **Total Challenges Solved:** 30+
 - **Categories:** Forensics, Web, PWN, Reverse Engineering
 
