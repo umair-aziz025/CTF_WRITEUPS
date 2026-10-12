@@ -26,17 +26,16 @@
 
 > Full-spectrum CTF covering cryptography, forensics, reverse engineering, web exploitation, OSINT, and miscellaneous challenges. Each category has its own dedicated folder containing complete writeups, solve scripts, and challenge artifacts.
 
-📂 [**Browse CTF Directory →**](Zero%20Trace%20CTF%202026/) | 📖 [**View Full Zero Trace CTF Index & Challenge Tables →**](Zero%20Trace%20CTF%202026/README.md)
+📂 [**Browse Zero Trace CTF Folder & Full Challenge Index →**](Zero%20Trace%20CTF%202026/)
 
-| Category | Solved | Points | Description | Category Directory |
-|----------|:------:|:------:|-------------|:------------------:|
-| 🔐 [Cryptography](Zero%20Trace%20CTF%202026/Cryptography/) | 9 | 2,275 | RSA attacks, ECDSA nonce reuse, Mersenne Twister, Diffie-Hellman | [📁 Cryptography/](Zero%20Trace%20CTF%202026/Cryptography/) |
-| 🕵️ [Forensics](Zero%20Trace%20CTF%202026/Forensics/) | 9 | 1,685 | Steganography (LSB, EXIF), PCAP analysis, SQLite, audio metadata | [📁 Forensics/](Zero%20Trace%20CTF%202026/Forensics/) |
-| 💻 [Reverse Engineering](Zero%20Trace%20CTF%202026/Reverse%20Engineering/) | 9 | 3,425 | ELF binary analysis, custom VM disassembly, anti-debug, Z3 solving | [📁 Reverse Engineering/](Zero%20Trace%20CTF%202026/Reverse%20Engineering/) |
-| 🌐 [Web Exploitation](Zero%20Trace%20CTF%202026/Web/) | 7 | — | Path traversal, SSRF, SSTI (Jinja2), JWT attacks, SQL injection, XSS | [📁 Web/](Zero%20Trace%20CTF%202026/Web/) |
-| 🧩 [Miscellaneous](Zero%20Trace%20CTF%202026/Misc/) | 9 | 1,025 | Brainfuck, corrupted file repair, Morse code, ZigZag cipher, onion encoding | [📁 Misc/](Zero%20Trace%20CTF%202026/Misc/) |
-| 🔍 [OSINT](Zero%20Trace%20CTF%202026/OSINT/) | 7 | 2,550 | Geolocation, historical OSINT, image metadata, landmark identification | [📁 OSINT/](Zero%20Trace%20CTF%202026/OSINT/) |
-| **Total** | **50** | **10,960+** | **Detailed challenge tables, flags & files in CTF README** | [**📖 Full Index**](Zero%20Trace%20CTF%202026/README.md) |
+| # | Category | Solved | Points | Focus Areas |
+|---|----------|:------:|:------:|-------------|
+| 1 | 🔐 [Cryptography](Zero%20Trace%20CTF%202026/Cryptography/) | 9 | 2,275 | RSA attacks, ECDSA nonce reuse, Mersenne Twister, Diffie-Hellman |
+| 2 | 🕵️ [Forensics](Zero%20Trace%20CTF%202026/Forensics/) | 9 | 1,685 | Steganography (LSB, EXIF), PCAP analysis, SQLite, audio metadata |
+| 3 | 💻 [Reverse Engineering](Zero%20Trace%20CTF%202026/Reverse%20Engineering/) | 9 | 3,425 | ELF binary analysis, custom VM disassembly, anti-debug, Z3 solving |
+| 4 | 🌐 [Web Exploitation](Zero%20Trace%20CTF%202026/Web/) | 7 | — | Path traversal, SSRF, SSTI (Jinja2), JWT attacks, SQL injection, XSS |
+| 5 | 🧩 [Miscellaneous](Zero%20Trace%20CTF%202026/Misc/) | 9 | 1,025 | Brainfuck, corrupted file repair, Morse code, ZigZag cipher, onion encoding |
+| 6 | 🔍 [OSINT](Zero%20Trace%20CTF%202026/OSINT/) | 7 | 2,550 | Geolocation, historical OSINT, image metadata, landmark identification |
 
 ---
 
