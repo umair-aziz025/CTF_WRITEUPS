@@ -1,4 +1,4 @@
-# 🔍 OSINT — Zero Trace CTF
+# 🔍 OSINT — Zero Trace CTF 2026
 
 **7 challenges solved** involving open-source intelligence, historical research, geolocation, image metadata analysis, and decoding challenges.
 

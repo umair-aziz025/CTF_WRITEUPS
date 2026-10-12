@@ -1,4 +1,4 @@
-# 💻 Reverse Engineering — Zero Trace CTF
+# 💻 Reverse Engineering — Zero Trace CTF 2026
 
 **9 challenges solved** involving x86-64 binary analysis, custom VM reverse engineering, hash cracking, bytecode analysis, and anti-debug bypass techniques.
 

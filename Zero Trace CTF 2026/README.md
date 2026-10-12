@@ -1,8 +1,8 @@
-# 🏴 Zero Trace CTF — Writeups
+# 🏴 Zero Trace CTF 2026 — Writeups
 
 > *"An attacker leaves no trace. A defender reads every bit."*
 
-A full collection of writeups from **Zero Trace CTF**, a jeopardy-style competition covering Cryptography, Forensics, Reverse Engineering, Web Exploitation, Miscellaneous, and OSINT.
+A full collection of writeups from **Zero Trace CTF 2026**, a jeopardy-style competition covering Cryptography, Forensics, Reverse Engineering, Web Exploitation, Miscellaneous, and OSINT.
 
 ---
 

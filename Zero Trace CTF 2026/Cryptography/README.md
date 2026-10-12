@@ -1,4 +1,4 @@
-# 🔐 Cryptography — Zero Trace CTF
+# 🔐 Cryptography — Zero Trace CTF 2026
 
 **9 challenges solved** across classical and modern cryptography topics including RSA factorization, ECDSA vulnerabilities, Mersenne Twister state recovery, and custom cipher analysis.
 

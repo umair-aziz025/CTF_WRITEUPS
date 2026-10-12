@@ -1,4 +1,4 @@
-# 🧩 Miscellaneous — Zero Trace CTF
+# 🧩 Miscellaneous — Zero Trace CTF 2026
 
 **9 challenges solved** covering brainfuck execution, file header repair, steganography, Morse code, cipher decoding, and encoding puzzles.
 

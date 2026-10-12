@@ -1,4 +1,4 @@
-# 🌐 Web — Zero Trace CTF
+# 🌐 Web — Zero Trace CTF 2026
 
 **7 challenges solved** covering the most common web exploitation techniques against a live CTF server at `45.67.87.142`.
 

@@ -1,4 +1,4 @@
-# 🕵️ Forensics — Zero Trace CTF
+# 🕵️ Forensics — Zero Trace CTF 2026
 
 **9 challenges solved** spanning network packet analysis, steganography (LSB, EXIF), file carving, database forensics, metadata analysis, and encoding/decoding chains.
 
