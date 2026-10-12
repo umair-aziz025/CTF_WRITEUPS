@@ -4,13 +4,6 @@
 
 ---
 
-## 👤 Author
-
-**MR. Umair Aziz** — Security researcher & CTF player  
-📊 **4 CTFs** | **80+ Challenges Solved** | **7 Categories**
-
----
-
 ## 📚 Table of Contents
 
 - [🕵️ Zero Trace CTF 2026](#️-zero-trace-ctf-2026) — 50 challenges across 6 categories
